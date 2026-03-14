@@ -6,6 +6,9 @@ A stylish and professional **Retro-Style Lottery Machine** built with **Flutter*
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6468933373)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/ljJyqa-lsFI/0.jpg)](https://www.youtube.com/watch?v=ljJyqa-lsFI)
+
 ## 🌟 Key Features
 - **Vintage Nixie Aesthetics:** Realistic animation and glowing effects of classic Nixie tubes.
 - **Flexible Number Range:** Supports any range from **0 to 99,999**.
